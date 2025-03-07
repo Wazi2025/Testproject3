@@ -12,3 +12,4 @@ c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\refint\Testproj
 c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.pdb
 c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.genruntimeconfig.cache
 c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\ref\Testproject3.dll
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.sourcelink.json
