@@ -1,0 +1,14 @@
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\bin\Debug\net9.0\Testproject3.exe
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\bin\Debug\net9.0\Testproject3.deps.json
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\bin\Debug\net9.0\Testproject3.runtimeconfig.json
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\bin\Debug\net9.0\Testproject3.dll
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\bin\Debug\net9.0\Testproject3.pdb
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.AssemblyInfoInputs.cache
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.AssemblyInfo.cs
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.csproj.CoreCompileInputs.cache
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.dll
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\refint\Testproject3.dll
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.pdb
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\Testproject3.genruntimeconfig.cache
+c:\Users\Instruktor\Desktop\CSharp\Testproject3\obj\Debug\net9.0\ref\Testproject3.dll
