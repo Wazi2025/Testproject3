@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj": {}
+    "d:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj": {
+    "d:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj",
+        "projectUniqueName": "d:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj",
         "projectName": "Testproject3",
-        "projectPath": "D:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj",
+        "projectPath": "d:\\VSCode\\CSharp\\Testproject3\\Testproject3.csproj",
         "packagesPath": "C:\\Users\\Bilbo\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\CSharp\\Testproject3\\obj\\",
+        "outputPath": "d:\\VSCode\\CSharp\\Testproject3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
